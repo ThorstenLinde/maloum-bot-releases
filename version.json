@@ -1,9 +1,10 @@
 {
-  "version": "2.0.0",
-  "download_windows": "https://github.com/ThorstenLinde/maloum-bot-releases/releases/download/v2.0.0/MaloumBot.zip",
-  "download_mac": "https://github.com/ThorstenLinde/maloum-bot-releases/releases/download/v2.0.0/maloum_mac_release.zip"
+  "version": "2.1.0",
+  "download_windows": "https://github.com/ThorstenLinde/maloum-bot-releases/releases/download/v2.1.0/MaloumBot.zip",
+  "download_mac": "https://github.com/ThorstenLinde/maloum-bot-releases/releases/download/v2.1.0/maloum_mac_release.zip"
 
 }
+
 
 
 
